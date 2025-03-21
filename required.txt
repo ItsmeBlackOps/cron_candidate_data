@@ -1,0 +1,5 @@
+groq
+openai
+pymongo
+requests
+python-dotenv
